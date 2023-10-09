@@ -1,0 +1,2 @@
+# devopsjourney
+shellscripting example project.
